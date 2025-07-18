@@ -1,5 +1,7 @@
 https://www.kaggle.com/competitions/playground-series-s5e7/overview
 
+KNN Model, 7 features, 3175 datapoints
+
 Your objective is to predict whether a person is an Introvert or Extrovert, given their social behavior and personality traits.
 
 Score: 0.973279
